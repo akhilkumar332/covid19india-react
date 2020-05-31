@@ -20,23 +20,13 @@ function Footer(props) {
       </div>
 
       <a
-        href="https://github.com/akhilkumar332/covid19india-react"
-        className="button github"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <Icon.GitHub />
-        <span>{t('Open Sourced on GitHub')}</span>
-      </a>
-
-      <a
         className="button excel"
         href="http://api.covid19india.org"
         target="_blank"
         rel="noopener noreferrer"
       >
         <Icon.Database />
-        <span>{t('Patient Database')}</span>
+        <span>{t('Get Patient Database')}</span>
       </a>
     </footer>
   );

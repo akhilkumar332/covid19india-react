@@ -10,14 +10,6 @@ function Footer(props) {
       <h5>{t('We stand with everyone fighting on the frontlines')}</h5>
 
       <div className="link">
-        <a
-          href="https://github.com/akhilkumar332"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          covid19india
-        </a>
-		<br/>
 		<a
           href="https://www.indwebhost.com"
           target="_blank"

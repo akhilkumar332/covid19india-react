@@ -17,6 +17,7 @@ function Footer(props) {
         >
           covid19india
         </a>
+		<br/>
 		<a
           href="https://www.indwebhost.com"
           target="_blank"

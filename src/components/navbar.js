@@ -181,7 +181,7 @@ function Expand({
       )}
 
       <div className="expand-bottom fadeInUp" style={{animationDelay: '1s'}}>
-        <h5>{t('A crowdsourced initiative.')}</h5>
+        <h5>{t('A Indwebhost initiative.')}</h5>
       </div>
     </div>
   );

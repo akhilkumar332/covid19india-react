@@ -38,17 +38,6 @@ function Footer(props) {
         <Icon.Database />
         <span>{t('Patient Database')}</span>
       </a>
-
-      <a
-        href="https://twitter.com/indwebhost"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="button twitter"
-        style={{justifyContent: 'center'}}
-      >
-        <Icon.Twitter />
-        <span>{t('View updates on Twitter')}</span>
-      </a>
     </footer>
   );
 }

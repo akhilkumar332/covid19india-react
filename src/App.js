@@ -37,8 +37,8 @@ const schemaMarkup = {
   '@type': 'NGO',
   name: 'Coronavirus Outbreak in India: Latest Map and Case Count',
   alternateName: 'COVID-19 Tracker',
-  url: 'https://www.covid19india.org/',
-  image: 'https://www.covid19india.org/thumbnail.png',
+  url: 'https://c19.indwebhost.com/',
+  image: 'https://c19.indwebhost.com/thumbnail.png',
 };
 
 function App() {

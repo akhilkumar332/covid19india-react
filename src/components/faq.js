@@ -27,7 +27,7 @@ function FAQ(props) {
   return (
     <div className="FAQ">
       <Helmet>
-        <title>FAQ - covid19india.org</title>
+        <title>FAQ - Indwebhost.com</title>
         <meta
           name="title"
           content="Coronavirus Outbreak in India: Latest Map and Case Count"

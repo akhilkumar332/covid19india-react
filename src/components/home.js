@@ -156,7 +156,7 @@ function Home(props) {
     <React.Fragment>
       <div className="Home">
         <Helmet>
-          <title>Coronavirus Outbreak in India - covid19india.org</title>
+          <title>Coronavirus Outbreak in India - Indwebhost.com</title>
           <meta
             name="title"
             content="Coronavirus Outbreak in India: Latest Map and Case Count"

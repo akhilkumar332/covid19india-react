@@ -128,8 +128,8 @@ function Demographics(props) {
   return (
     <div className="Demographics">
       <Helmet>
-        <title>Demographics - covid19india.org</title>
-        <meta name="title" content={`Demographics - covid19india.org`} />
+        <title>Demographics - Indwebhost.com</title>
+        <meta name="title" content={`Demographics - Indwebhost.com`} />
         <meta
           name="description"
           content="A demographical overview of the Indian population affected by the coronavirus."
